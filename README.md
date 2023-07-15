@@ -15,10 +15,7 @@ Match: Simulates an individual cricket match, using objects of the above classes
  # Installation and Usage
 
 # 1. Clone the repository :
-git clone https://github.com/vim12345/Advanced_Cricket_Tournament-_Simulation/new/main?readme=1
-
-#  2. Navigate to the project directory:
-cd Advanced_Cricket_Tournament-_Simulation
+git clone https://github.com/vim12345/Advanced_Cricket_Tournament-_Simulation
 #  3. Run the main.py file to start the simulation:
 python  Advanced_Cricket_Tournament-_Simulation
 .py
